@@ -1,5 +1,3 @@
-# favorite-cmd-commands
-
 # Favorite cmd commands
 
 ## $ man [option] commandName
